@@ -16,4 +16,7 @@
 - [Resolucion de sistema de ecuaciones lineales](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-sist-ecuaciones)
     - [Eliminacion gaussiana](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-sist-ecuaciones/eliminaciongaussiana)
     - [GaussSeidel](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-sist-ecuaciones/gaussSeidel)
+- [Metodos de Interpolacion](https://github.com/angelo59930/metodos-numericos/tree/main/Interpolacion)
+    - [Lagrange](https://github.com/angelo59930/metodos-numericos/tree/main/Interpolacion/Lagrange)
+    - [Splide]
 
