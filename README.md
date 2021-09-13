@@ -5,15 +5,15 @@
 - El lenguaje en el que estan los codigos es C/C++
 
 ## Contenido
-* [busqueda de raices](https://github.com/angelo59930/metodos-numericos/tree/main/busqueda-de-raices)
-  - [Metodos abiertos](https://github.com/angelo59930/metodos-numericos/tree/main/busqueda-de-raices/metodos-abiertos)
-    - Secante
-    - NewtonRapshon
-    - Punto fijo
+- [busqueda de raices](https://github.com/angelo59930/metodos-numericos/tree/main/busqueda-de-raices)
+    - [Metodos abiertos](https://github.com/angelo59930/metodos-numericos/tree/main/busqueda-de-raices/metodos-abiertos)
+      - Secante
+      - NewtonRapshon
+      - Punto fijo
   - [Metodos cerrados](https://github.com/angelo59930/metodos-numericos/tree/main/busqueda-de-raices/metodos-cerrados)  
     (En ese archivo esta tanto el metodo de **falsa posicion como el metodo de la biseccion**)  
  
-* [Resolucion de sistema de ecuaciones lineales](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-sist-ecuaciones)
-  - [Eliminacion gaussiana](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-sist-ecuaciones/eliminaciongaussiana)
-  - [GaussSeidel](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-sist-ecuaciones/gaussSeidel)
+- [Resolucion de sistema de ecuaciones lineales](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-sist-ecuaciones)
+    - [Eliminacion gaussiana](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-sist-ecuaciones/eliminaciongaussiana)
+    - [GaussSeidel](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-sist-ecuaciones/gaussSeidel)
 
