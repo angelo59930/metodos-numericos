@@ -6,4 +6,4 @@
 </ul>
 
 ## contenido
-[busqueda de raices](metodos-numericos/busqueda-de-raices/)
+[busqueda de raices](angelo59930/metodos-numericos/busqueda-de-raices/)
