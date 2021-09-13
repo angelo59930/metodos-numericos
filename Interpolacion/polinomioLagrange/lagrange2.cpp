@@ -10,7 +10,7 @@ int main(void){
 	#include"lectura_escritura_datos.c"
 
 	int n=filas;
-	double errorMinimo = 1e-6;//ponemos el error minimo que queremos
+	double errorMinimo = 0.0001;//ponemos el error minimo que queremos
 	double px;	/*COORDENADA X DE UN PAR [x,y]*/
 	double py;	/*COORDENADA Y DE UN PAR [x,y]*/
 	double m[filas][filas],b[filas];	
@@ -107,7 +107,7 @@ int main(void){
 		if(j==0)
 			cout << a[i] << " + ";
 		else
-			cout << a[i] << " " << "X^" << j << " ";
+			cout << a[i] << " " << "x^" << j << "+";
 		
 	}
 	
