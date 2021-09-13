@@ -5,7 +5,9 @@
 #include <iostream>
 
 /*
+* Universidad: IUA - Ing. Informatica
 * Este codigo fue proporcionado por la docente de la materia
+* Docente: Maria Florencia Parisi
 **/
 
 using namespace std;
