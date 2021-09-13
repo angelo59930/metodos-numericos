@@ -119,10 +119,9 @@ int main(void){
 	cout << "Ingrese el valor de X : ";
 	cin >> valorX;
 	
-	for(int i=0,j=0;i<n;i++,j++)
+	for(int i=0;i<n;i++)
 	{
-			resultado+= a[i] * pow(valorX,j);
-		
+			resultado+= a[i] * pow(valorX,i);
 	}
 
 	cout << "El resultado es : " << resultado << endl;
