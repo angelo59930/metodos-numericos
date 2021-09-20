@@ -18,5 +18,5 @@
     - [GaussSeidel](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-sist-ecuaciones/gaussSeidel)
 - [Metodos de Interpolacion](https://github.com/angelo59930/metodos-numericos/tree/main/Interpolacion)
     - [Lagrange](https://github.com/angelo59930/metodos-numericos/tree/main/Interpolacion/Lagrange)
-    - [Splide]
+    - [Spline]()
 
