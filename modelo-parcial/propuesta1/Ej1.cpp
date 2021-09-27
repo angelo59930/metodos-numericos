@@ -1,18 +1,23 @@
 #include <stdio.h>
+#include <limits.h>
+#include <float.h>
 #include <math.h>
 #include <iostream>
+#include <stdlib.h>
 
 using namespace std;
 
 double funcion(double x)
 {
-  return -x + 2;
+
+  return (2 * x + log10(x) - sin(3 * x));
 }
 
 double derivada(double x)
 {
-  double h = 0.000001;
-  return ((funcion(x + h) - funcion(x)) / h);
+
+  double h = 0.01;
+  return ((3 * funcion(x)) - (4 * funcion(x - h)) + (funcion(x - 2 * h))) / (2 * h);
 }
 
 int main()
@@ -61,7 +66,7 @@ int main()
 
   } while (error > epsilon);
 
-  cout << " La raiz es " << x << "\n numero de pasos : " << pasos << "\n con un error : " << error << endl;
+  cout << " La raiz es "<< x <<"\n numero de pasos : " << pasos << "\n con un error : " << error << endl;
 
   return 0;
 }
