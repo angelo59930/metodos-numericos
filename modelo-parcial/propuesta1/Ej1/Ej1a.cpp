@@ -66,7 +66,7 @@ int main()
 
   } while (error > epsilon);
 
-  cout << " La raiz es "<< x <<"\n numero de pasos : " << pasos << "\n con un error : " << error << endl;
+  cout << " La raiz es " << x << "\n numero de pasos : " << pasos << "\n con un error : " << error << endl;
 
   return 0;
 }
