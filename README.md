@@ -4,6 +4,17 @@
 - Ante alguna modificacion que quieran hacer proponer el commit y, obviamente, **justifique el cambio**.
 - El lenguaje en el que estan los codigos es C/C++
 
+## Modelos de Parciales
+  ### Primer parcial
+  - [Modelo-1](https://github.com/angelo59930/metodos-numericos/tree/main/modelo-parcial)
+    - [Ej1](https://github.com/angelo59930/metodos-numericos/tree/main/modelo-parcial/propuesta1/Ej1)
+    - [Ej2](https://github.com/angelo59930/metodos-numericos/tree/main/modelo-parcial/propuesta1/Ej2)
+    - [Ej3](https://github.com/angelo59930/metodos-numericos/tree/main/modelo-parcial/propuesta1/Ej3)
+  - [Modelo-2](https://github.com/angelo59930/metodos-numericos/tree/main/modelo2-parcial/propuesta1)
+    - [Ej1](https://github.com/angelo59930/metodos-numericos/tree/main/modelo2-parcial/propuesta1/Ej1)
+    - [Ej2](https://github.com/angelo59930/metodos-numericos/tree/main/modelo2-parcial/propuesta1/Ej2)
+    - [Ej3](https://github.com/angelo59930/metodos-numericos/tree/main/modelo2-parcial/propuesta1/Ej3)
+
 ## Contenido 
 - [busqueda de raices](https://github.com/angelo59930/metodos-numericos/tree/main/busqueda-de-raices)
     - [Metodos abiertos](https://github.com/angelo59930/metodos-numericos/tree/main/busqueda-de-raices/metodos-abiertos)
