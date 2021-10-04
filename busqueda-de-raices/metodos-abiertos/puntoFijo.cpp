@@ -34,15 +34,15 @@ int main(int argc, char const *argv[]){
   cout << "La Raiz es: " << x << endl;
   return 0;
 }
-
+// funcion original
 double f(double x){
   return 3*x+sin(x)-exp(x);
 }
-
+// despeje
 double g(double x){
   return -1*(sin(x)-exp(x))/3;
 }
-
+// derivada
 double derivada(double x){
   double h = 0.00001;
   return (g(x+h)-g(x))/h;
