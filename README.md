@@ -14,7 +14,11 @@
     - [Ej1](https://github.com/angelo59930/metodos-numericos/tree/main/modelo2-parcial/propuesta1/Ej1)
     - [Ej2](https://github.com/angelo59930/metodos-numericos/tree/main/modelo2-parcial/propuesta1/Ej2)
     - [Ej3](https://github.com/angelo59930/metodos-numericos/tree/main/modelo2-parcial/propuesta1/Ej3)
-
+ ### Segundo parcial
+## Parciales 
+  ### Primer parcial
+- [Parcial](https://github.com/angelo59930/metodos-numericos/tree/main/parcial/primer-parcial)
+  ### Segundo parcial
 ## Contenido 
 - [busqueda de raices](https://github.com/angelo59930/metodos-numericos/tree/main/busqueda-de-raices)
     - [Metodos abiertos](https://github.com/angelo59930/metodos-numericos/tree/main/busqueda-de-raices/metodos-abiertos)
@@ -31,3 +35,7 @@
     - [Lagrange](https://github.com/angelo59930/metodos-numericos/tree/main/Interpolacion/Lagrange)
     - [Spline](https://github.com/angelo59930/metodos-numericos/tree/main/Interpolacion/InterpolacionSpline)
 
+- Regrecion
+  - [Regresion polinomica](https://github.com/angelo59930/metodos-numericos/tree/main/Regresion)
+ 
+- Resolucion de integrales
