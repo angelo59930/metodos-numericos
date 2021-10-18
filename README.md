@@ -46,5 +46,5 @@
     - [Con Tabla](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/SimpsonComp/SimpsonConTabla) 
   - [Trapecio](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/TrapecioComp)
     - [Con Funcion](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/TrapecioComp/TrapConFuncion)
-    - [Con Tabla equivalente](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/TrapecioComp/TrapConTablaEqui)
-    - [Con Tabla no equivante](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/TrapecioComp/TrapConTablaNoEqui)
+    - [Con Tabla de puntos equidistantes](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/TrapecioComp/TrapConTablaEqui)
+    - [Con Tabla de puntos no equidistantes](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/TrapecioComp/TrapConTablaNoEqui)
