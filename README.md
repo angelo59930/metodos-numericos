@@ -16,10 +16,10 @@
     - [Ej3](https://github.com/angelo59930/metodos-numericos/tree/main/modelo2-parcial/propuesta1/Ej3)
  ### Segundo parcial
 ## Parciales 
-  
-  ### Primer parcial
+### Primer parcial
 - [Parcial](https://github.com/angelo59930/metodos-numericos/tree/main/parcial/primer-parcial)
-  ### Segundo parcial
+### Segundo parcial
+- [Parcial]
 
 ## Contenido 
 - [busqueda de raices](https://github.com/angelo59930/metodos-numericos/tree/main/busqueda-de-raices)
