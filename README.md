@@ -1,7 +1,7 @@
 # metodos-numericos 🖥️📑
 ### TENER EN CUENTA ⚠️
 - Aca voy a ir subiendo los algoritmos que vayamos viendo en la materia.
-- Ante alguna modificacion que quieran hacer proponer el commit y, obviamente, **justifique el cambio**.
+- Ante alguna modificacion que quieran hacer hacer el pull request y, obviamente, **justifique el cambio**.
 - El lenguaje en el que estan los codigos es C/C++
 
 ## Modelos de Parciales
@@ -16,9 +16,11 @@
     - [Ej3](https://github.com/angelo59930/metodos-numericos/tree/main/modelo2-parcial/propuesta1/Ej3)
  ### Segundo parcial
 ## Parciales 
+  
   ### Primer parcial
 - [Parcial](https://github.com/angelo59930/metodos-numericos/tree/main/parcial/primer-parcial)
   ### Segundo parcial
+
 ## Contenido 
 - [busqueda de raices](https://github.com/angelo59930/metodos-numericos/tree/main/busqueda-de-raices)
     - [Metodos abiertos](https://github.com/angelo59930/metodos-numericos/tree/main/busqueda-de-raices/metodos-abiertos)
