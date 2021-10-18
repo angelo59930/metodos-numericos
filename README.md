@@ -40,4 +40,11 @@
 - Regrecion
   - [Regresion polinomica](https://github.com/angelo59930/metodos-numericos/tree/main/Regresion)
  
-- Resolucion de integrales
+- [Resolucion de integrales](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales)
+  - [Simpson](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/SimpsonComp)
+    - [Con Funcion](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/SimpsonComp/SimpsonConFuncion) 
+    - [Con Tabla](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/SimpsonComp/SimpsonConTabla) 
+  - [Trapecio](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/TrapecioComp)
+    - [Con Funcion](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/TrapecioComp/TrapConFuncion)
+    - [Con Tabla equivalente](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/TrapecioComp/TrapConTablaEqui)
+    - [Con Tabla no equivante](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/TrapecioComp/TrapConTablaNoEqui)
