@@ -6,13 +6,13 @@ using namespace std;
 
 double funcion(double x)
 {
-  return -x + 2;
+  return pow(x,3)+4*x-10;
 }
 
 double derivada(double x)
 {
-  double h = 0.000001;
-  return ((funcion(x + h) - funcion(x)) / h);
+  double h = 0.01;
+  return (-funcion(x + 2 * h) + 8 * funcion(x + h) - 8 * funcion(x - h) + funcion(x - 2 * h)) / (12 * h);
 }
 
 int main()
@@ -20,16 +20,9 @@ int main()
 
   int pasos = 0;
 
-  double epsilon, xp, x, error;
+  double epsilon = pow(10,-6), xp, x = 2, error;
 
-  cout << "Ingrese el X inicial" << endl;
-
-  cin >> x;
-
-  cout << "Ingrese el valor de epsilon" << endl;
-
-  cin >> epsilon;
-
+ 
   do
   {
 
@@ -51,6 +44,8 @@ int main()
       }
 
       x = xp;
+
+      cout << "paso: " << pasos << "\n error: " << error << endl;
     }
     else
     {

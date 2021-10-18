@@ -45,7 +45,7 @@ double f(double x)
 // despeje
 double g(double x)
 {
-  return log(3*x+sin(x));
+  return -(sin(x)-exp(x))/3;
 }
 // derivada
 double derivada(double x)
