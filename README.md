@@ -48,6 +48,7 @@
     - [Con Funcion](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/TrapecioComp/TrapConFuncion)
     - [Con Tabla de puntos equidistantes](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/TrapecioComp/TrapConTablaEqui)
     - [Con Tabla de puntos no equidistantes](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/TrapecioComp/TrapConTablaNoEqui)
-- [Diferenciacion]()
-  - [Con Funcion]()
-  - [Con tabla]()
+
+- [Diferenciacion](https://github.com/angelo59930/metodos-numericos/tree/main/Diferenciacion)
+  - [Con Funcion](https://github.com/angelo59930/metodos-numericos/tree/main/Diferenciacion/ConFuncion)
+  - [Con tabla](https://github.com/angelo59930/metodos-numericos/tree/main/Diferenciacion/ConTabla)
