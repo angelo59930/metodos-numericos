@@ -14,7 +14,6 @@ double g(double x, double a, double b)
   return f((((b - a) / 2) * x) + (b + a) / 2);
 }
 
-
 int main(void)
 {
 
