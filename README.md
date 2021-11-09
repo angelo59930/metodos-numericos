@@ -48,7 +48,9 @@
     - [Con Funcion](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/TrapecioComp/TrapConFuncion)
     - [Con Tabla de puntos equidistantes](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/TrapecioComp/TrapConTablaEqui)
     - [Con Tabla de puntos no equidistantes](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/TrapecioComp/TrapConTablaNoEqui)
+  - [Cuadratura de Gauss](https://github.com/angelo59930/metodos-numericos/tree/main/resolucion-integrales/cuadraturaGauss)
 
 - [Diferenciacion](https://github.com/angelo59930/metodos-numericos/tree/main/Diferenciacion)
   - [Con Funcion](https://github.com/angelo59930/metodos-numericos/tree/main/Diferenciacion/ConFuncion)
   - [Con tabla](https://github.com/angelo59930/metodos-numericos/tree/main/Diferenciacion/ConTabla)
+  - [todos los metodos de primer orden](https://github.com/angelo59930/metodos-numericos/blob/main/Diferenciacion/ecuacionesDiferenciales.cpp)
