@@ -6,12 +6,12 @@
 #include <iostream>
 using namespace std;
 
-double f(double x, double y)
+/*double f(double x, double y)
 {
   double a;
-  a = cos(x)+log(1+pow(x,2));
+  a = x*x + y;
   return a;
-}
+}*/
 
 int main(void)
 {
@@ -33,7 +33,7 @@ int main(void)
 
   printf("x_min=%f, x_max=%f, N=%d\n", x_min, x_max, N);
 
-  h = 0.1;
+  h = (x_max - x_min) / N;
 
   printf("h=%.12f\n", h);
 
@@ -59,15 +59,18 @@ int main(void)
       }
     }
 */
-  for (j = 1; j <= N; j++)
-  {
-    x[j] = x_min + (double)j * h;
-    y[j] = y[j - 1] + h * f(x[j - 1], y[j - 1]);
-  }
+  for (j=1; j<=N; j++)
+   x[j] = x_min + (double)j * h;
+  for (j = 1; j < N; j++)
+    y[j+1] = (y[j]+h*pow(x[j+1],2))/(1-h);
+  
 
   file = fopen("datos.dat", "w");
 
-  for (j = 0; j <= N; j++)
+  for (j = 0; j <= N; j++){
+    printf("x[%d]=%f, y[%d]=%f\n", j, x[j], j, y[j]);
 
     fprintf(file, "%.12f  %.12f\n", x[j], y[j]);
+  }
+
 }
