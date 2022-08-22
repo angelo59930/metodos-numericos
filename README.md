@@ -19,7 +19,7 @@
 ### Primer parcial
 - [Parcial](https://github.com/angelo59930/metodos-numericos/tree/main/parcial/primer-parcial)
 ### Segundo parcial
-- [Parcial]
+- [Parcial](https://github.com/angelo59930/metodos-numericos/tree/main/parcial/segundo-parcial)
 
 ## Contenido 
 - [busqueda de raices](https://github.com/angelo59930/metodos-numericos/tree/main/busqueda-de-raices)
