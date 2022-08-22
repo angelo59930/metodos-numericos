@@ -1,6 +1,6 @@
 # metodos-numericos 🖥️📑
 ### TENER EN CUENTA ⚠️
-- Aca voy a ir subiendo los algoritmos que vayamos viendo en la materia.
+- En este repositorio se subieron los distintos metodos numericos que se vieron en el año 2021
 - Ante alguna modificacion que quieran hacer hacer el pull request y, obviamente, **justifique el cambio**.
 - El lenguaje en el que estan los codigos es C/C++
 
