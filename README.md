@@ -15,11 +15,12 @@
     - [Ej2](https://github.com/angelo59930/metodos-numericos/tree/main/modelo2-parcial/propuesta1/Ej2)
     - [Ej3](https://github.com/angelo59930/metodos-numericos/tree/main/modelo2-parcial/propuesta1/Ej3)
  ### Segundo parcial
-## Parciales 
-### Primer parcial
-- [Parcial](https://github.com/angelo59930/metodos-numericos/tree/main/parcial/primer-parcial)
-### Segundo parcial
-- [Parcial](https://github.com/angelo59930/metodos-numericos/tree/main/parcial/segundo-parcial)
+## Parciales y final
+### Parciales
+- [Primer parcial](https://github.com/angelo59930/metodos-numericos/tree/main/parcial/primer-parcial)
+- [Segundo parcial](https://github.com/angelo59930/metodos-numericos/tree/main/parcial/segundo-parcial)
+### Final
+- [Final 2021](https://github.com/angelo59930/metodos-numericos/tree/main/parcial/final-2021)
 
 ## Contenido 
 - [busqueda de raices](https://github.com/angelo59930/metodos-numericos/tree/main/busqueda-de-raices)
